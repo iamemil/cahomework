@@ -1,4 +1,0 @@
-GitHub əsasən developerlər tərəfindən istifadə olunan bir kod paylaşım platformasıdır. Bu platformanın əsas cəhəti ondan ibarətdirki, sizin və ya komandanızın yazıb, "commit" edib, "push"ladığı bütün dəyişikləri qeydə ala bilir. Bu o zaman yardımçı olurki, yenicə dəyişdirdiyiniz layihənin kodunda problem baş verir. Burada siz böyük ümidlərlə Ctrl+Z-yə basıb geri qayıtmağa çalışırsınız, amma bu "command" hər zaman siz istəyən nəticəni vermir. Bu zaman siz GitHub-da həmin layihənin "repository"sinə daxil olub, "commits" bölməsindən geri qayıda bilər və ya əvvəlki uğurlu "commit"in kodunu endirə bilərsiniz. 
-GitHub-u developerlər üçün sosial şəbəkə də hesab etmək olar. Burada siz başqalarını izləyə, problem olan kodlara düzəlişlər edə bilərsiniz və başqaları da sizə kömək edə bilər. Fikrimcə, qrafik dizaynerlər üçün Behance nədirsə, developerlər üçün də GitHub odur.
-
-~ CA homework
