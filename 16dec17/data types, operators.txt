@@ -1,0 +1,11 @@
+1. Dəyişən (Variable) nədir ?
+Proqramlaşdırma mühitində, variable-ların ilkin dəyəri olmur, lakin əməliyyatlarda dəyər alır və kodun bir çox hissəsində istifadə oluna bilir. Variable-ların adı sabit olsa da, daşıdığı informasiya dəyişə bilir.
+
+2. Ən çox istifadə olunan məlumat növlərini izahlı şəkildə yazın.
+int - integer-in qısa versiyadır, dəyəri ədəd olur və 32-bitlik informasiya tutumu olur.
+char - character-in qısa versiyadır, bir hərf saxlaya bilir və 16-bitlik Unicode tutumu olur.
+float - ədədi və kəsr hissəsini saxlaya bilir və 32-bitlik informasiya tutumu olur.
+double - float-ın 64-bitlik versiyadır və 2 dəfə çox informasiya saxlaya bilir.
+short - 16-bitlik informasiya saxlayır, mənfi və müsbət dəyər ala bilir.
+ushort - unsigned short. 16-bitlik informasiya saxlayır, yalnız müsbət dəyər alır.
+
