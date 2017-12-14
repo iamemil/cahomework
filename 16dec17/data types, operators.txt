@@ -4,8 +4,27 @@ Proqramlaşdırma mühitində, variable-ların ilkin dəyəri olmur, lakin əmə
 2. Ən çox istifadə olunan məlumat növlərini izahlı şəkildə yazın.
 int - integer-in qısa versiyadır, dəyəri ədəd olur və 32-bitlik informasiya tutumu olur.
 char - character-in qısa versiyadır, bir hərf saxlaya bilir və 16-bitlik Unicode tutumu olur.
-float - ədədi və kəsr hissəsini saxlaya bilir və 32-bitlik informasiya tutumu olur.
-double - float-ın 64-bitlik versiyadır və 2 dəfə çox informasiya saxlaya bilir.
+float - ədədi və kəsr hissəsini saxlaya bilir və 32-bitlik informasiya tutumu olur. 7 xana tutur.
+double - float-ın 64-bitlik versiyadır və 2 dəfə çox informasiya saxlaya bilir. 15-16 xana tutur.
 short - 16-bitlik informasiya saxlayır, mənfi və müsbət dəyər ala bilir.
 ushort - unsigned short. 16-bitlik informasiya saxlayır, yalnız müsbət dəyər alır.
 
+3. Riyazi operatorlar hansilardir? Fərqli proqramlaşdırma dillərində bu operatorlar arasında hansı fərqli xüsusiyətlər var?
++ variable-ları bir-birindən toplamaq üçündür. (A=4; B=3; A + B = 7)
+- variable-ları bir-birindən çıxmaq üçündür. (A=4; B=3; A - B = 1)
+* variable-ları bir-birinə vurmaq üçündür. (A=4; B=3; A * B = 12)
+/ variable-ları bir-birinə bölmək üçündür. (A=4; B=3; B / A = 0.75)
+% variable-ları bir-birinə böldükdən sonra qalan qalığı göstərir. (A=4; B=3; A % B = 1)
+
+4. Məntiq operatorları hansılardır? Nümunələr üzərində izah edin.
+&& -> və mənasını verir. Alqoritmdəki şərtlərin hamısı yerinə yetirildikdə/düzgün olduqda true cavabı verir.
+|| -> və ya mənasını verir. Alqoritmdəki şərtlərdən ən azı biri belə yerinə yetirildikdə/düzgün olduqda true cavabı verir, yalnız heç biri yerinə yetirilmədikdə false cavabı verir.
+!  -> deyil mənasını verir. Alqoritmdə şərtlərin hamısı yerinə yetirildikdə/düzgün olduqda && operatoru true cavab verir, lakin ! operatoru not true cavabı verir.
+
+5. Şərt operatorları hansılardır?
+== -> dəyişənlərin bərabər olmasını yoxlayır. (A==B) - false.
+!= -> dəyişənlərin bərabər olmadığını yoxlayır. (A==B) - true.
+>  -> dəyişənlərdən birinin digərindən böyük olmasını yoxlayır. (3 > 1) - true; (1 > 3) - false.
+<  -> dəyişənlərdən birinin digərindən kiçik olmasını yoxlayır. (1 < 2) - true; (2 < 1) - false.
+>= -> dəyişənlərdən birinin digərindən böyük və ya bərabər olmasını yoxlayır. (3 >= 3) - true; (3 >= 2) - true; (3 >= 4) - false. (=> ilə qarışdırılmamalıdır.)
+<= -> dəyişənlərdən birinin digərindən kiçik və ya bərabər olmasını yoxlayır. (3 <= 3) - true; (3 <= 4) - true; (3 <= 2) - false.
