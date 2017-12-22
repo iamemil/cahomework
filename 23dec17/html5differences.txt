@@ -1,0 +1,7 @@
+HTML5-in digər versiyalardan əsas fərqləri:
+1. HTML1.0-dan 4.0-a qədər HTML əsasən veb-səhifədə mətn və foto-şəkillərin yerləşdirilməsi üçün istifadə olunub. Daha sonrakı versiyadan etibarən, HTML-a veb-səhifələrin quruluşunu qurmaq və malumatları qruplaşdırmaq üçün üçün yeniliklər əlavə olundu.
+2. Bəzi "tag"-lar yığışdırılmış, yerinə yeniləri əlavə olunmuşdur.
+3. syntax problemi yaratmır, yazdığınız "tag"-da səhvlik olsa belə bunu göstərir.
+4. SEO(Search Engine Optimisation) HTML5-də daha uğurlu nəticə verir.
+5. DOCTYPE daha qısadır.
+6. HTML5 Geolokasiya, Offline veb applikasiya və digər modern texnologiyaları dəstəkləyir.
